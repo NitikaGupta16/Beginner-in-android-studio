@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="add_item">ADD ITEM</string>
+    <string name="activity_checklist">checklist</string>
+    <string name="list_items">LIST ITEMS</string>
+    <string name="bread">Bread</string>
+    <string name="butter">Butter</string>
+    <string name="cheese">Cheese</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="chips">Chips</string>
+    <string name="popcorn">Popcorn</string>
+    <string name="burger_bun">Burger Bun</string>
+    <string name="milk">MIlk</string>
+    <string name="pizza_base">Pizza Base</string>
+    <string name="cold_drink">Cold Drink</string>
+    <string name="mad_angles">MAD ANGLES</string>
+    <string name="kurkure">Kurkure</string>
+    <string name="mayonise">Mayonise</string>
+    <string name="dairy_milk">Dairy Milk</string>
+    <string name="milk_bar">MILK BAR</string>
+    <string name="items_to_buy">ITEMS TO BUY</string>
+    <string name="milk_S">MILK</string>
+    <string name="location">location</string>
+    <string name="open_location">Open Location</string>
+    <string name="enter_location">Enter Location</string>
+</resources>
